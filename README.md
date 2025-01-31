@@ -1,3 +1,7 @@
+💻 Ryan Haddad | Ingénieur en Informatique
+
+Bienvenue sur mon GitHub ! 🎯 Passionné par le développement web et mobile, je suis actuellement en troisième année de formation en ingénierie informatique et en alternance. Mon parcours m’a permis de travailler sur divers projets touchant au DevOps, au développement backend/frontend, ainsi qu’à des architectures microservices.
+
 🚀 Projets majeurs
 
 🎵 SpotyMike
