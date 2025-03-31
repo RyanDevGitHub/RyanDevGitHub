@@ -3,7 +3,7 @@
 
 🌱 J’apprends actuellement **le DevOps**  
 💬 Pose-moi des questions sur **Symfony, Angular, Spring Boot, UX/UI**  
-📫 Me contacter : **ryan.haddad@example.com**  
+📫 Me contacter : **ryanhaddadpro@gmail.com**  
 
 ## 🌍 Me retrouver sur :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanhaddad)
