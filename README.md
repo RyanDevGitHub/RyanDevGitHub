@@ -7,7 +7,7 @@
 
 ## 🌍 Me retrouver sur :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-haddad-383159178/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mubr.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.inazumadraft.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyanDevGitHub)
 
 ---
@@ -28,7 +28,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 🗄 Gestion de bases de données
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,18 +37,15 @@
 ### ☁ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-FF4088?style=for-the-badge&logo=git&logoColor=white)
-![SonarCloud](https://img.shields.io/badge/-SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 
 ---
 
 ### 📊 Statistiques GitHub :
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanhaddad&show_icons=true&theme=dark" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanhaddad&show_icons=true&theme=dark&cache_seconds=1800" alt="Statistiques GitHub" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanhaddad&theme=dark" alt="GitHub Streak" />
 </p>
-
----
 
 ⭐ **Ryan Haddad** 🚀 | _"Toujours apprendre, toujours construire"_
