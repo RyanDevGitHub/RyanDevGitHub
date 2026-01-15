@@ -42,10 +42,10 @@
 
 ### 📊 Statistiques GitHub :
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanhaddad&show_icons=true&theme=dark&cache_seconds=1800" alt="Statistiques GitHub" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanDevGitHub)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanhaddad&theme=dark" alt="GitHub Streak" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanDevGitHub)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ⭐ **Ryan Haddad** 🚀 | _"Toujours apprendre, toujours construire"_
