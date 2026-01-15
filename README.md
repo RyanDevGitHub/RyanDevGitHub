@@ -43,11 +43,11 @@
 ### 📊 Statistiques GitHub :
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=RyanDevGitHub&show_icons=true&theme=dark" alt="Statistiques de RyanDevGitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanDevGitHub&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanDevGitHub&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=RyanDevGitHub&theme=dark" alt="Langages les plus utilisés" />
 </p>
 
 ⭐ **Ryan Haddad** 🚀 | _"Toujours apprendre, toujours construire"_
