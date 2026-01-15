@@ -41,11 +41,13 @@
 ---
 
 ### 📊 Statistiques GitHub :
+
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanDevGitHub)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=RyanDevGitHub&show_icons=true&theme=dark" alt="Statistiques de RyanDevGitHub" />
 </p>
+
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanDevGitHub)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanDevGitHub&theme=dark" alt="GitHub Streak" />
 </p>
 
 ⭐ **Ryan Haddad** 🚀 | _"Toujours apprendre, toujours construire"_
