@@ -43,11 +43,7 @@
 ### 📊 Mes Statistiques GitHub :
 
 <p align="center">
-  <img src="https://github-readme-stats-rehype.vercel.app/api?username=RyanDevGitHub&show_icons=true&theme=dark&v=99" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanDevGitHub&theme=dark&v=99" alt="Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanDevGitHub&theme=github-dark" alt="Activity Graph" />
 </p>
 
 ⭐ **Ryan Haddad** 🚀 | _"Toujours apprendre, toujours construire"_
